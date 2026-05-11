@@ -59,7 +59,10 @@ These entries are standalone Markdown notes with frontmatter (`title`, `category
 Each law should remain a short, readable Markdown note with:
 - frontmatter (`title`, `category`, `description`)
 - `## 什么是...`
+- `## 核心要点`
+- `## 例子`
 - `## 适用场景`
+- `## 常见误解` when the entry benefits from clarifying a common misuse
 - `## 局限性与注意事项`
 
 The tone should stay faithful to the original idea while being naturally rewritten for Chinese readers, not a literal line-by-line translation.
